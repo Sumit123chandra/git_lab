@@ -1,3 +1,4 @@
 Welcome to Git
 Learning Git basics
 This line is from Main Branch
+This line is from Conflict Branch
